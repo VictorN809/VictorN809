@@ -49,4 +49,5 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 ### ⚡ Mis Estadísticas de GitHub
 ![Stats de Víctor](https://github-readme-stats.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
+![Stats de Víctor2](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&count_private=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=radical)
