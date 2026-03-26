@@ -59,5 +59,6 @@ No solo escribo código, también me enfoco en que el equipo avance:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Flocalhost%3A3000)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorN809&show_icons=true&theme=transparent)
-![Stats de Víctor2](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&hide=false)
+![Stats de Víctor2](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&hide=prs)
