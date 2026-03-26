@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Node.js • Angular • React • AWS
 
-Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en aplicaciones web y móviles escalables[cite: 8]. Me especializo en el **Backend (Node.js/Express/NestJS)** y en despliegues en la **nube (AWS)**. Me apasiona resolver problemas de rendimiento y arquitectura a nivel de código para ofrecer experiencias de usuario fluidas[cite: 9].
+Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en aplicaciones web y móviles escalables. Me especializo en el **Backend (Node.js/Express/NestJS)** y en despliegues en la **nube (AWS)**. Me apasiona resolver problemas de rendimiento y arquitectura a nivel de código para ofrecer experiencias de usuario fluidas.
 
 
 
