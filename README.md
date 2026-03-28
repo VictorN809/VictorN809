@@ -44,6 +44,8 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 ---
 
+![demo](./assets//courses/simple-calculadora.gif)
+
 ### 📊 Lenguajes más utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)
 
