@@ -48,8 +48,19 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 <img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/>
 <img src="./assets/courses/pelis-app-ezgif.com-resize.gif"/>
-
 <img src="./assets/projects/yocomparto.gif" width="100" height="200"/>
+<table>
+  <tr>
+    <th>Columna 1</th>
+    <th>Columna 2</th>
+    <th>Columna 3</th>
+  </tr>
+  <tr>
+    <td>Dato 1</td>
+    <td>Dato 2</td>
+    <td>Dato 3</td>
+  </tr>
+</table>
 
 ### 📊 Lenguajes más utilizados
 ![VictorN809Percent](https://github-readme-stats-omega-one-14.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
