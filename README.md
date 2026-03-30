@@ -67,7 +67,9 @@ No solo escribo código, también me enfoco en que el equipo avance:
 ![VictorN809mostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
 
 #### Secondary Account
-Cuenta institucional enfocada en desarrollo y gestión de proyectos académicos, incluyendo aplicaciones web y móviles modernas.
+Cuenta institucional enfocada en desarrollo y gestión de proyectos académicos, incluyendo aplicaciones web y móviles modernas. 
+Link aqui ![Victeku](https://github.com/Victeku)
+
 ![VictekuPercent](https://github-readme-stats-omega-one-14.vercel.app/api?username=Victeku&show_icons=true&theme=radical)
 ![Victekumostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=Victeku&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
 <!--
