@@ -52,7 +52,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
 <img src="./assets/projects/yocomparto.gif" width="100" height="200"/>
 
 ### 📊 Lenguajes más utilizados
-![papu](https://github-readme-stats-178mv34rg-victor-n809.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
+![papu](https://github-readme-stats-omega-one-14.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)
 -->
