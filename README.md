@@ -46,19 +46,19 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 <!-- ![demo](./assets//courses/simple-calculadora.gif) -->
 
-<img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/>
-<img src="./assets/courses/pelis-app-ezgif.com-resize.gif"/>
-<img src="./assets/projects/yocomparto.gif" width="100" height="200"/>
+
+
+
 <table>
   <tr>
-    <th>Columna 1</th>
-    <th>Columna 2</th>
-    <th>Columna 3</th>
+    <th>Calculadora</th>
+    <th>Peliculas</th>
+    <th>YoComparto</th>
   </tr>
   <tr>
-    <td>Dato 1</td>
-    <td>Dato 2</td>
-    <td>Dato 3</td>
+    <td><img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/></td>
+    <td><img src="./assets/courses/pelis-app-ezgif.com-resize.gif"/></td>
+    <td><img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
   </tr>
 </table>
 
