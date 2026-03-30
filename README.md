@@ -66,6 +66,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![papu](https://github-readme-stats-178mv34rg-victor-n809.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
 
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Flocalhost%3A3000)
