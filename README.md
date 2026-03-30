@@ -52,8 +52,12 @@ No solo escribo código, también me enfoco en que el equipo avance:
 <img src="./assets/projects/yocomparto.gif" width="100" height="200"/>
 
 ### 📊 Lenguajes más utilizados
-![papu](https://github-readme-stats-omega-one-14.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
-![papu](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
+![VictorN809Percent](https://github-readme-stats-omega-one-14.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
+![VictorN809mostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
+
+#### Secondary Account
+![VictekuPercent](https://github-readme-stats-omega-one-14.vercel.app/api?username=Victeku&show_icons=true&theme=radical)
+![Victekumostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=Victeku&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)
 -->
