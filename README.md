@@ -89,3 +89,10 @@ Link aqui [Victeku](https://github.com/Victeku)
 
 ![VictekuPercent](https://github-readme-stats-omega-one-14.vercel.app/api?username=Victeku&show_icons=true&theme=radical)
 ![Victekumostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=Victeku&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
+
+
+> 💼 **Historial laboral disponible**
+>
+> Consulta mi experiencia profesional, proyectos y evidencias aquí:
+>
+> 👉 [Ver evidencias laborales](docs/evidencias.md)
