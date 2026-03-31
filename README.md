@@ -66,6 +66,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
      <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
   <td>
     <h6>Proyecto de 1Rocket Laps </h6>
+   <a href="evidencias.md">Ir a evidencias</a>
     <img src="./assets/projects/abby-flujo-optimize.gif" width="100" height="200""/>
   </td>
 </td>
@@ -79,7 +80,8 @@ No solo escribo código, también me enfoco en que el equipo avance:
 ![VictorN809Percent](https://github-readme-stats-omega-one-14.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
 ![VictorN809mostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
 
-[EvidenciadeDesarrollo](./abby.md)
+
+
 
 #### Secondary Account
 
