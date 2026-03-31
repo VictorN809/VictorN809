@@ -4,50 +4,48 @@
 
 Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en aplicaciones web y móviles escalables. Me especializo en el **Backend (Node.js/Express/NestJS)** y en despliegues en la **nube (AWS)**. Me apasiona resolver problemas de rendimiento y arquitectura a nivel de código para ofrecer experiencias de usuario fluidas.
 
-
-
 ---
 
 ### 🛠️ Mi Stack Tecnológico
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | JavaScript (ES6+), TypeScript, PHP, Python
-| **Frontend** | Angular, React, React Native, Ionic, Tailwind CSS 
-| **Backend** | Node.js (Express), NestJS, Laravel 
-| **Cloud & DevOps** | AWS (S3, EC2, Lambda), Docker, Nginx, Git 
-| **Bases de Datos** | MongoDB, MySQL, MariaDB, Redis 
+| Categoría          | Tecnologías                                       |
+| :----------------- | :------------------------------------------------ |
+| **Lenguajes**      | JavaScript (ES6+), TypeScript, PHP, Python        |
+| **Frontend**       | Angular, React, React Native, Ionic, Tailwind CSS |
+| **Backend**        | Node.js (Express), NestJS, Laravel                |
+| **Cloud & DevOps** | AWS (S3, EC2, Lambda), Docker, Nginx, Git         |
+| **Bases de Datos** | MongoDB, MySQL, MariaDB, Redis                    |
 
 ---
 
 ### 📈 Logros de los que me siento orgulloso
 
-* ⚡ **Optimización:** Reduje tiempos de respuesta de endpoints REST de **1.5s a 0.6s** mediante indexación y optimización en MongoDB.
-* ☁️ **Cloud:** Implementé microservicios de traducción automática usando **Python y AWS Lambda**.
-* 📱 **Mobile:** Optimicé el Splash Screen de apps usando **animaciones Lottie**, mejorando el renderizado en iOS y reduciendo el peso de la app.
-* 🔄 **Migraciones:** Lideré la actualización de plataformas críticas como LMS Moodle de v3.3 a 4.5.
+- ⚡ **Optimización:** Reduje tiempos de respuesta de endpoints REST de **1.5s a 0.6s** mediante indexación y optimización en MongoDB.
+- ☁️ **Cloud:** Implementé microservicios de traducción automática usando **Python y AWS Lambda**.
+- 📱 **Mobile:** Optimicé el Splash Screen de apps usando **animaciones Lottie**, mejorando el renderizado en iOS y reduciendo el peso de la app.
+- 🔄 **Migraciones:** Lideré la actualización de plataformas críticas como LMS Moodle de v3.3 a 4.5.
 
 ---
 
 ### 🤝 Trabajo en Equipo y Metodologías
+
 No solo escribo código, también me enfoco en que el equipo avance:
-* Experiencia bajo metodología **Agile Scrum** usando Jira para gestión de sprints.
-* Capacidad de **liderazgo, iniciativa y adaptabilidad** en entornos dinámicos.
-* Fuerte enfoque en la **resolución de problemas** y aprendizaje continuo.
+
+- Experiencia bajo metodología **Agile Scrum** usando Jira para gestión de sprints.
+- Capacidad de **liderazgo, iniciativa y adaptabilidad** en entornos dinámicos.
+- Fuerte enfoque en la **resolución de problemas** y aprendizaje continuo.
 
 ---
 
 ### 📫 Conectemos
-* 📧 **Email:** nievesv809@gmail.com 
-* 📍 **Ubicación:** Toluca, México 
-* 💼 **LinkedIn:** [Añade aquí tu link de LinkedIn]
+
+- 📧 **Email:** nievesv809@gmail.com
+- 📍 **Ubicación:** Toluca, México
+- 💼 **LinkedIn:** [Añade aquí tu link de LinkedIn]
 
 ---
 
 <!-- ![demo](./assets//courses/simple-calculadora.gif) -->
-
-
-
 
 <table>
   <tr>
@@ -69,7 +67,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
     <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
        <td>
      <h6>Proyecto de 1Rocket Laps</h6>
-       <!-- <img src="./assets/projects/abby-flujo-optimize.gif"/> -->
+       <img src="./assets/projects/abby-flujo-optimize.gif"/>
        </td>
 
 </td>
@@ -78,15 +76,18 @@ No solo escribo código, también me enfoco en que el equipo avance:
 </table>
 
 ### 📊 Lenguajes más utilizados
+
 ![VictorN809Percent](https://github-readme-stats-omega-one-14.vercel.app/api?username=VictorN809&show_icons=true&theme=radical)
 ![VictorN809mostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
 
 #### Secondary Account
-Cuenta institucional enfocada en desarrollo y gestión de proyectos académicos, incluyendo aplicaciones web y móviles modernas. 
+
+Cuenta institucional enfocada en desarrollo y gestión de proyectos académicos, incluyendo aplicaciones web y móviles modernas.
 Link aqui [Victeku](https://github.com/Victeku)
 
 ![VictekuPercent](https://github-readme-stats-omega-one-14.vercel.app/api?username=Victeku&show_icons=true&theme=radical)
 ![Victekumostused](https://github-readme-stats-omega-one-14.vercel.app/api/top-langs/?username=Victeku&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&cache_seconds=0)
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN809&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)
 -->
