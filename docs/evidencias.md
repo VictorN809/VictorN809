@@ -39,10 +39,11 @@
 
 
 ### Digital Pineapple
+> **Nota:**  Actualmente algunos servicios no están activos desconozco la situación interna de la empresa y su relación sus clientes.
 
 <table>
 	<tr colspan="2">
-		<th>Digital Pineapple - YoComparto</th>
+		<th>YoComparto</th>
         <th>Project Evidence</th>
 	</tr>
 	<tr>
@@ -62,4 +63,23 @@
             <img src="../assets/projects/evidence-yocomparto/yocomparto-gitlog.png" width="100" height="200">
         </td>
     </tr>
+</table>
+
+### Cursos
+
+<table>
+	<tr colspan="2">
+		<th>Calculadora</th>
+	</tr>
+	<tr>
+		<th rowspan="5">
+            <img src="../assets/courses/simple-calculadora.gif" height=200>
+        </th>
+	</tr>
+    	<tr>
+		<th rowspan="5">
+            <img src="../assets/courses/pelis-app-ezgif.com-resize.gif" height=200>
+        </th>
+	</tr>
+
 </table>
