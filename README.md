@@ -52,24 +52,23 @@ No solo escribo código, también me enfoco en que el equipo avance:
     <th>Calculadora</th>
     <th>Peliculas</th>
     <th>YoComparto</th>
-      <th>Abby</th>
+    <th>Abby</th>
   </tr>
   <tr>
-    <td>
+  <td>
     <h6>Curso React Native</h6>
-    <img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/>
-    </td>
-    <td>
-     <h6>Curso React Native</h6>
+      <img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/>
+  </td>
+  <td>
+    <h6>Curso React Native</h6>
     <img src="./assets/courses/pelis-app-ezgif.com-resize.gif"/></td>
-    <td>
+  <td>
      <h6>Proyecto de Digital Pineapple</h6>
-    <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
-       <td>
-     <h6>Proyecto de 1Rocket Laps</h6>
-       <img src="./assets/projects/abby-flujo-optimize.gif"/>
-       </td>
-
+     <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
+  <td>
+    <h6>Proyecto de 1Rocket Laps</h6>
+    <img src="./assets/projects/abby-flujo-optimize.gif width="100" height="200""/>
+  </td>
 </td>
 
   </tr>
