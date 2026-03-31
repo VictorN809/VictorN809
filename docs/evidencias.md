@@ -5,11 +5,11 @@
 	</tr>
 	<tr>
 		<th rowspan="5">
-            <img src="../assets/projects/abby-flujo-optimize.gif" height=250>
+            <img src="../assets/projects/abby-flujo-optimize.gif" height=200>
         </th>
 	</tr>
-	<tr>
-		<td>
+	<tr >
+		<td width="80%">
 			<ul>
             	<li>Desarrollé la aplicación desde cero, gestionando de forma autónoma tanto la arquitectura como la implementación. Mantuve comunicación directa para reportar avances, lo que me permitió tomar decisiones técnicas y optimizar el desarrollo de manera eficiente.</li> 
 				<li>Trabajé en conjunto con el equipo de diseño para implementar una animación de splash screen usando Lottie. Inicialmente se utilizaban imágenes, GIFs o videos, lo que generaba problemas de rendimiento y, en iOS, mostraba controles de reproducción no deseados.
