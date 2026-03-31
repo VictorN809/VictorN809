@@ -100,6 +100,12 @@
     </tr>
 </table>
 
+<div style="text-align: center;">
+	<img src="../assets/projects/infrastructura-pineapple.png" width="50%">
+	<br>
+  <sub><b>Figura :</b> Arquitectura Cloud</sub>
+</div>
+
 ### Cursos
 
 <table>
