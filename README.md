@@ -65,14 +65,14 @@ No solo escribo código, también me enfoco en que el equipo avance:
      <h6>Proyecto de Digital Pineapple</h6>
      <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
   <td>
-    <h6>Proyecto de 1Rocket Laps</h6>
-    <h7> [Evidencia de Desarrollo](abby.md)</h7>
+    <h6>Proyecto de 1Rocket Laps </h6>
     <img src="./assets/projects/abby-flujo-optimize.gif" width="100" height="200""/>
   </td>
 </td>
 
   </tr>
 </table>
+   [EvidenciadeDesarrollo](abby.md)
 
 ### 📊 Lenguajes más utilizados
 
