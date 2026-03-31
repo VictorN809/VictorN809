@@ -1,19 +1,20 @@
 <table>
 	<tr colspan="2">
 		<th>1Rocket Laps - Abby App</th>
-        <th>Experiencie with evidence</th>
+        <th>Project Evidence</th>
 	</tr>
 	<tr>
 		<th rowspan="5">
-            <img src="../assets/projects/abby-flujo-optimize.gif" height=200>
+            <img src="../assets/projects/abby-flujo-optimize.gif" height=250>
         </th>
 	</tr>
 	<tr>
 		<td>
 			<ul>
-				<li>Elemento 1</li>
-				<li>Elemento 2</li>
-				<li>Elemento 3</li>
+            	<li>Desarrollé la aplicación desde cero, gestionando de forma autónoma tanto la arquitectura como la implementación. Mantuve comunicación directa para reportar avances, lo que me permitió tomar decisiones técnicas y optimizar el desarrollo de manera eficiente.</li> 
+				<li>Trabajé en conjunto con el equipo de diseño para implementar una animación de splash screen usando Lottie. Inicialmente se utilizaban imágenes, GIFs o videos, lo que generaba problemas de rendimiento y, en iOS, mostraba controles de reproducción no deseados.
+                Tras investigar alternativas, propuse e integré Lottie en Android e iOS, logrando una carga más fluida, mejor rendimiento y una experiencia de usuario más consistente.
+                </li>
 			</ul>
 		</td>
 	</tr>
