@@ -49,7 +49,7 @@
 		<th rowspan="5">
             APP , FRONTED y Backend
             <br>
-              <video controls src="../assets/projects/evidence-sare/Screenrecorder-2025-01-26-08-46-02-707.mp4" width="100" height="200">
+              <img controls src="../assets/projects/evidence-sare/Screenshot_2025-01-26-09-20-54-686_com.mx.future.sdr.jpg" width="100" height="200">
         </th>
 	</tr>
 	<tr >
