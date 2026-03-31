@@ -69,7 +69,7 @@
         </td>
     </tr>
     <tr>
-    SARE es un plataforma de monitoreo KPIs , emplea registros de accesos en sus intalaciones ademas de realizar acciones ante desastres en intalaciones alertando y notificando en tiempo atravez de SMS , email , PUSH notifications y Record voice  
+   Es una plataforma de monitoreo KPIs , emplea registros de accesos en sus intalaciones ademas de realizar acciones ante desastres en intalaciones alertando y notificando en tiempo atravez de SMS , email , PUSH notifications y Record voice  
     </tr>
 </table>
 
