@@ -67,7 +67,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
      <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
   <td>
     <h6>Proyecto de 1Rocket Laps</h6>
-    <img src="./assets/projects/abby-flujo-optimize.gif width="100" height="200""/>
+    <img src="./assets/projects/abby-flujo-optimize.gif" width="100" height="200""/>
   </td>
 </td>
 
