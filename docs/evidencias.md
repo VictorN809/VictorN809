@@ -33,13 +33,48 @@
             <img src="../assets/projects/evidence-abby/Screenshot_2025-06-27-10-31-22-897_com.mx.abby.future.jpg" width="100" height="200">
         </td>
     </tr>
+    <tr>
+    La idea del desarrollo de aplicacion surgio para evitar el uso de su plataforma oficial <a href="https://www.abby.mx/sign-in">Abby</a> teniendo sus funciones (registro de Asitencia , documentos,Posts, Noticias, Solicitar vacaciones , justificantes , ver nomina , proximos cumpleaños y aniversarios )
+    </tr>
 </table>
 
 > **Nota:** Las capturas reflejan un nombre distinto debido a que el acceso fue modificado temporalmente para fines de desarrollo.
 
+<table>
+	<tr colspan="2">
+		<th>SARE</th>
+        <th>Project Evidence</th>
+	</tr>
+	<tr>
+		<th rowspan="5">
+            APP , FRONTED y Backend
+            <br>
+              <video controls src="../assets/projects/evidence-sare/Screenrecorder-2025-01-26-08-46-02-707.mp4" width="100" height="200">
+        </th>
+	</tr>
+	<tr >
+		<td width="80%">
+			<ul>
+            	<li>Actualice la aplicacion pero se quedo en su etapa de aprobacion por parte del cliente .</li> 
+				<li>Realice el cambio servicio SMS a broadcastermobile esto por demoras notificadas.</li> 
+                <li>Añadi metricas , desarolle modulos y di soporte tenico todo atravez de la metodologia scrum</li>   
+			</ul>
+		</td>
+	</tr>
+    <tr>
+       <td>
+            <img src="../assets/projects/evidence-sare/IMG-20250109-WA0003.jpeg" height="200">
+            <img src="../assets/projects/evidence-sare/IMG-20250508-WA0004.jpg" height="200">
+            <img src="../assets/projects/evidence-sare/Screenshot_2024-10-25-05-27-17-702_com.android.chrome.jpg" height="200">
+        </td>
+    </tr>
+    <tr>
+    SARE es un plataforma de monitoreo KPIs , emplea registros de accesos en sus intalaciones ademas de realizar acciones ante desastres en intalaciones alertando y notificando en tiempo atravez de SMS , email , PUSH notifications y Record voice  
+    </tr>
+</table>
 
 ### Digital Pineapple
-> **Nota:**  Actualmente algunos servicios no están activos desconozco la situación interna de la empresa y su relación sus clientes.
+> **Nota:**  Actualmente algunos servicios no están activos desconozco la situación interna de la empresa y su relación con sus clientes.
 
 <table>
 	<tr colspan="2">
@@ -82,3 +117,4 @@
         </th>
 	</tr>
 </table>
+
