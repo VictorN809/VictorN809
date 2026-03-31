@@ -11,6 +11,8 @@ Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en a
 <table style="backgroud-color:red;">
   <tr rowspan="2">
     <th >Name</th>
+    <th >Name</th>
+      <th >Name</th>
   </tr>
   <tr>
     <td>Jill</td>
@@ -54,7 +56,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 - 📧 **Email:** nievesv809@gmail.com
 - 📍 **Ubicación:** Toluca, México
-- 💼 **LinkedIn:** linkedin.com/in/nievesv809
+- 💼 **LinkedIn:** [nievesv809](linkedin.com/in/nievesv809)
 
 ---
 
