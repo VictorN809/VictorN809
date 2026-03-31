@@ -8,9 +8,9 @@ Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en a
 
 ### 🛠️ Mi Stack Tecnológico
 
-<table style="width:100%">
-  <tr>
-    <th rowspan="2">Name</th>
+<table style="backgroud-color:red;">
+  <tr rowspan="2">
+    <th >Name</th>
   </tr>
   <tr>
     <td>Jill</td>
