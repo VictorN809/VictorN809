@@ -56,7 +56,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 - 📧 **Email:** nievesv809@gmail.com
 - 📍 **Ubicación:** Toluca, México
-- 💼 **LinkedIn:** ![nievesv809](linkedin.com/in/nievesv809)
+- 💼 **LinkedIn:** [nievesv809](https://linkedin.com/in/nievesv809)
 
 ---
 
