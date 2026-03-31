@@ -54,6 +54,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
     <th>YoComparto</th>
     <th>Abby</th>
   </tr>
+  <tr>
   <td>
     <h6>Curso React Native</h6>
       <img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/>
@@ -65,9 +66,9 @@ No solo escribo código, también me enfoco en que el equipo avance:
      <h6>Proyecto de Digital Pineapple</h6>
      <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
   <td>
-    <h6>Proyecto de 1Rocket Laps </h6>
-   <a href="evidencias.md">Ir a evidencias</a>
-    <img src="./assets/projects/abby-flujo-optimize.gif" width="100" height="200""/>
+    <h6>Proyecto de 1Rocket Laps 
+   <a href="abby.md">Ir a evidencias</a> </h6>
+    <img src="./assets/projects/abby-flujo-optimize.gif" width="100" height="200"/>
   </td>
 </td>
 
