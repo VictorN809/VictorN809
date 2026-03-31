@@ -24,6 +24,9 @@ No solo escribo código, también me enfoco en que el equipo avance:
 - Fuerte enfoque en la **resolución de problemas** y aprendizaje continuo.
 
 ---
+### 💼 Historial laboral y Aprendizaje
+👉 [Ver](docs/evidencias.md)
+---
 
 ### 📫 Conectemos
 
@@ -33,11 +36,6 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 ---
 
-> 💼 **Historial laboral disponible**
->
-> Consulta mi experiencia profesional, proyectos y evidencias aquí:
->
-> 👉 [Ver evidencias 1Rocket Laps](docs/evidencias.md)
 
 ### 📊 Lenguajes más utilizados
 
