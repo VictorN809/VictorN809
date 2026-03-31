@@ -81,5 +81,4 @@
             <img src="../assets/courses/pelis-app-ezgif.com-resize.gif" height=200>
         </th>
 	</tr>
-
 </table>
