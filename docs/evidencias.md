@@ -14,7 +14,7 @@
             	<li>Desarrollé la aplicación desde cero, gestionando de forma autónoma tanto la arquitectura como la implementación. Mantuve comunicación directa para reportar avances, lo que me permitió tomar decisiones técnicas y optimizar el desarrollo de manera eficiente.</li> 
 				<li>Trabajé en conjunto con el equipo de diseño para implementar una animación de splash screen usando Lottie. Inicialmente se utilizaban imágenes, GIFs o videos, lo que generaba problemas de rendimiento y, en iOS, mostraba controles de reproducción no deseados.
                 Tras investigar alternativas, propuse e integré Lottie en Android e iOS, logrando una carga más fluida, mejor rendimiento y una experiencia de usuario más consistente.
-                </li>
+                </li>            
 			</ul>
 		</td>
 	</tr>
@@ -32,3 +32,5 @@
         </td>
     </tr>
 </table>
+
+> **Nota:** Las capturas reflejan un nombre distinto debido a que el acceso fue modificado temporalmente para fines de desarrollo.
