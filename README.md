@@ -2,19 +2,32 @@
 
 ### 🚀 Full Stack Developer | Node.js • Angular • React • AWS
 
-Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en aplicaciones web y móviles escalables. Me especializo en el **Backend (Node.js/Express/NestJS)** y en despliegues en la **nube (AWS)**. Me apasiona resolver problemas de rendimiento y arquitectura a nivel de código para ofrecer experiencias de usuario fluidas.
+Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en aplicaciones web y móviles escalables. Me especializo en el **Backend (Node.js/Express/NestJS)** y en despliegues en la **nube (AWS)** . Me apasiona resolver problemas de rendimiento y arquitectura a nivel de código para ofrecer experiencias de usuario fluidas.
 
 ---
 
 ### 🛠️ Mi Stack Tecnológico
 
-| Categoría          | Tecnologías                                       |
+<table style="width:100%">
+  <tr>
+    <th rowspan="2">Name</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+</table>
+<!-- | Categoría          | Tecnologías                                       |
 | :----------------- | :------------------------------------------------ |
 | **Lenguajes**      | JavaScript (ES6+), TypeScript, PHP, Python        |
 | **Frontend**       | Angular, React, React Native, Ionic, Tailwind CSS |
 | **Backend**        | Node.js (Express), NestJS, Laravel                |
 | **Cloud & DevOps** | AWS (S3, EC2, Lambda), Docker, Nginx, Git         |
-| **Bases de Datos** | MongoDB, MySQL, MariaDB, Redis                    |
+| **Bases de Datos** | MongoDB, MySQL, MariaDB, Redis                    | -->
 
 ---
 
@@ -23,7 +36,7 @@ Desarrollador Full-Stack con **3 años de experiencia** transformando ideas en a
 - ⚡ **Optimización:** Reduje tiempos de respuesta de endpoints REST de **1.5s a 0.6s** mediante indexación y optimización en MongoDB.
 - ☁️ **Cloud:** Implementé microservicios de traducción automática usando **Python y AWS Lambda**.
 - 📱 **Mobile:** Optimicé el Splash Screen de apps usando **animaciones Lottie**, mejorando el renderizado en iOS y reduciendo el peso de la app.
-- 🔄 **Migraciones:** Lideré la actualización de plataformas críticas como LMS Moodle de v3.3 a 4.5.
+- 🔄 **Migraciones:** Lideré la actualización de plataformas críticas **LMS Moodle de v3.3 a 4.5** , Ejecute y revise la actualización de facturacion 3.3 a 4.0 de **facturapi**
 
 ---
 
@@ -41,7 +54,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 - 📧 **Email:** nievesv809@gmail.com
 - 📍 **Ubicación:** Toluca, México
-- 💼 **LinkedIn:** [Añade aquí tu link de LinkedIn]
+- 💼 **LinkedIn:** linkedin.com/in/nievesv809
 
 ---
 
