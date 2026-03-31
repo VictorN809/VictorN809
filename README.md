@@ -54,7 +54,6 @@ No solo escribo código, también me enfoco en que el equipo avance:
     <th>YoComparto</th>
     <th>Abby</th>
   </tr>
-  <tr>
   <td>
     <h6>Curso React Native</h6>
       <img src="./assets/courses/simple-calculadora.gif" width="100" height="200"/>
@@ -67,6 +66,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
      <img src="./assets/projects/yocomparto.gif" width="100" height="200"/></td>
   <td>
     <h6>Proyecto de 1Rocket Laps</h6>
+    <h7> [Evidencia de Desarrollo](abby.md)</h7>
     <img src="./assets/projects/abby-flujo-optimize.gif" width="100" height="200""/>
   </td>
 </td>
@@ -81,7 +81,7 @@ No solo escribo código, también me enfoco en que el equipo avance:
 
 #### Secondary Account
 
-Cuenta institucional enfocada en desarrollo y gestión de proyectos académicos, incluyendo aplicaciones web y móviles modernas.
+Cuenta institucional enfocada en desarrollo y gestión de proyectos académicos, incluyendo aplicaciones web y móviles.
 Link aqui [Victeku](https://github.com/Victeku)
 
 ![VictekuPercent](https://github-readme-stats-omega-one-14.vercel.app/api?username=Victeku&show_icons=true&theme=radical)
