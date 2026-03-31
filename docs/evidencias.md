@@ -1,6 +1,8 @@
+### 1Rocket Laps
+
 <table>
 	<tr colspan="2">
-		<th>1Rocket Laps - Abby App</th>
+		<th> Abby App</th>
         <th>Project Evidence</th>
 	</tr>
 	<tr>
@@ -34,3 +36,30 @@
 </table>
 
 > **Nota:** Las capturas reflejan un nombre distinto debido a que el acceso fue modificado temporalmente para fines de desarrollo.
+
+
+### Digital Pineapple
+
+<table>
+	<tr colspan="2">
+		<th>Digital Pineapple - YoComparto</th>
+        <th>Project Evidence</th>
+	</tr>
+	<tr>
+		<th rowspan="5">
+            <img src="../assets/projects/yocomparto.gif" height=200>
+        </th>
+	</tr>
+	<tr >
+		<td width="80%">
+			<ul>
+            	<li>Desarrollé la aplicación hasta su proceso de aprobación en Google Play, encargándome de la implementación de componentes, navegación y diseño de la interfaz.</li>           
+			</ul>
+		</td>
+	</tr>
+    <tr>
+       <td>
+            <img src="../assets/projects/evidence-yocomparto/yocomparto-gitlog.png" width="100" height="200">
+        </td>
+    </tr>
+</table>
